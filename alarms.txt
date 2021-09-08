@@ -1,3 +1,5 @@
-12 44 24 PM On
-12 44 27 AM Off
-4 44 30 PM Off
+6 59 42 PM On
+12 0 0 AM Off
+12 0 0 PM On
+2 30 59 AM Off
+11 44 8 PM On
